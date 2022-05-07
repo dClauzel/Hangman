@@ -1,0 +1,12 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: '# the variable M is already defined'
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6943#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Thu, 05 May 2022 13:04:42 UTC
+record: -1
